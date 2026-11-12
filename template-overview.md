@@ -1,4 +1,4 @@
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/semaphore?utm_campaign=semaphore)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/semaphore-ui-2?utm_campaign=semaphore)
 
 ![Semaphore UI — task list](https://raw.githubusercontent.com/INAPP-Mobile/semaphore/main/assets/semaphore-dashboard.png)
 
