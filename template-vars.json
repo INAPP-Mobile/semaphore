@@ -1,0 +1,1 @@
+{"SEMAPHORE_ADMIN_PASSWORD":{"defaultValue":"${{secret(16)}}","description":"Admin password for the seeded admin account (username admin). Generated per deploy — log in at the public URL with admin + this password. Seeded once per volume; changing it later does not change the password.","isOptional":false}}
